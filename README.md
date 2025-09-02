@@ -9,9 +9,7 @@ Dưới đây là minh họa đánh giá nhận diện và đọc biển số:
 
 
 * Biển số xe chỉ có trên 1 hàng
-
 * YOLOv8 nhận diện thành công
-
 * VietOCR đọc chính xác biển số xe: 30E-922.91
 
 
@@ -20,10 +18,10 @@ Dưới đây là minh họa đánh giá nhận diện và đọc biển số:
 
 
 * Biển số xe có 2 hàng
-
 * YOLOv8 nhận diện thành công
-
 * VietOCR đọc biển số xe: 2752. chưa tốt do định dạng nhiều hàng
 
 
-Lưu ý: Các ảnh đánh giá bạn có thể thêm trực tiếp vào repo ở thư mục results/ và cập nhật link ở trên.
+Kết luận:
+* Cần cải thiện khả năng đọc biển số xe có **2 dòng**.  
+* Cần giải quyết vấn đề khi biển số xe **nghiêng**, để nâng cao độ chính xác.
